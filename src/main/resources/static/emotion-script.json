@@ -1,0 +1,228 @@
+{
+  "Surprised": {
+    "Scene 1": {
+      "Situation": "A friend throws a surprise birthday party.",
+      "Dialogue": [
+        {"name": "Character 1", "message": "Hey, what's going on here? Why is everyone gathered?"},
+        {"name": "Character 2", "message": "Surprise! Happy birthday! We wanted to make your day special."},
+        {"name": "Character 1", "message": "I... I'm genuinely surprised! I had no idea. Thank you so much, everyone!"}
+      ]
+    },
+    "Scene 2": {
+      "Situation": "Kate and Aaron, a couple, are at a restaurant celebrating their anniversary when Aaron proposes.",
+      "Dialogue": [
+        {"name": "Aaron", "message": "Kate, these past years with you have been the best of my life. Will you marry me?"},
+        {"name": "Kate", "message": "Aaron! I... I wasn't expecting this! Is this... is this really happening?"}
+      ]
+    }
+  },
+  "Excited": {
+    "Scene 1": {
+      "Situation": "Emily and Ben, friends, just found out they won a trip to Hawaii in a competition.",
+      "Dialogue": [
+        {"name": "Emily", "message": "Ben, can you believe this? We're actually going to Hawaii! I've always dreamed of this!"},
+        {"name": "Ben", "message": "I know, Emily! I can hardly contain my excitement. This is going to be a trip to remember!"}
+      ]
+    },
+    "Scene 2": {
+      "Situation": "Two colleagues discussing an upcoming project they're passionate about.",
+      "Dialogue": [
+        {"name": "Person 1", "message": "I just got off the phone with the client. The project is a huge success!"},
+        {"name": "Person 2", "message": "(enthusiastically) That's incredible news! Our hard work is paying off."},
+        {"name": "Person 1", "message": "I can't wait to see how the client reacts. This is a game-changer."}
+      ]
+    }
+  },
+  "Joyous": {
+    "Scene 1": {
+      "Situation": "Sarah and David, parents, are at the hospital holding their newborn baby for the first time.",
+      "Dialogue": [
+        {"name": "Sarah", "message": "David, look at her tiny fingers and toes. I can't believe she's finally here."},
+        {"name": "David", "message": "She's perfect, Sarah. I'm so overjoyed I can barely speak."}
+      ]
+    },
+    "Scene 2": {
+      "Situation": "Peter and Mary are at their son's graduation.",
+      "Dialogue": [
+        {"name": "Peter", "message": "There he is, Mary. Our son is now a college graduate."},
+        {"name": "Mary", "message": "I know, Peter. I am so proud of him. All his hard work paid off."}
+      ]
+    }
+  },
+  "Happy": {
+    "Scene 1": {
+      "Situation": "Lisa and Tom, siblings, are at a family reunion after years of being apart.",
+      "Dialogue": [
+        {"name": "Lisa", "message": "Tom, it's so good to see everyone again after all these years. I feel so happy right now."},
+        {"name": "Tom", "message": "Me too, Lisa. It's like we've stepped back into our childhood."}
+      ]
+    },
+    "Scene 2": {
+      "Situation": "Lisa and Tom are sitting in a café.",
+      "Dialogue": [
+        {"name": "Tom", "message": "Lisa, I've been offered the job I interviewed for last week."},
+        {"name": "Lisa", "message": "Tom, that's fantastic! I know how much you wanted that position. Let's celebrate!"}
+      ]
+    }
+  },
+  "Content": {
+    "Scene 1": {
+      "Situation": "Amy and Mark, a middle-aged couple, are sitting in their backyard after a homemade dinner.",
+      "Dialogue": [
+        {"name": "Mark", "message": "Amy, do you remember when we first moved in and planted these roses? Look at them now, blooming so beautifully."},
+        {"name": "Amy", "message": "Yes, Mark. I remember it as if it was yesterday. Now, sitting here, looking at these roses under the starry sky, I couldn't ask for anything more. This moment, it's just so fulfilling."}
+      ]
+    },
+    "Scene 2": {
+      "Situation": "Amy and Mark are sitting in their backyard after dinner.",
+      "Dialogue": [
+        {"name": "Mark", "message": "Amy, this is perfect. A quiet evening, good food, and the stars above us."},
+        {"name": "Amy", "message": "Yes, Mark. I couldn't ask for anything more. I'm just so content right now."}
+      ]
+    }
+  },
+  "Relaxed": {
+    "Scene 1": {
+      "Situation": "James and Lily, a couple, are having a leisurely Sunday morning breakfast in their sunny patio.",
+      "Dialogue": [
+        {"name": "James", "message": "Lily, isn't this just wonderful? The birds singing, the warm sunlight, the aroma of fresh coffee..."},
+        {"name": "Lily", "message": "Absolutely, James. It feels like all the stress just melts away in moments like these. I feel so relaxed and at peace."}
+      ]
+    },
+    "Scene 2": {
+      "Situation": "Susan and Paul, a stressed-out city couple, are at a countryside spa on a weekend.",
+      "Dialogue": [
+        {"name": "Susan", "message": "Paul, I didn't realize how much we needed this. Away from the noise and hustle of the city, I feel so at ease."},
+        {"name": "Paul", "message": "I'm glad you like it, Susan. Seeing you relaxed and smiling, it's worth it. We should do this more often."}
+      ]
+    }
+  },
+  "Calm": {
+    "Scene 1": {
+      "Situation": "Olivia and Mike are on a boat in the middle of a calm lake, fishing.",
+      "Dialogue": [
+        {"name": "Olivia", "message": "Mike, the stillness of the water, the quiet around us... it's so calming."},
+        {"name": "Mike", "message": "Yes, Olivia. It's like time has slowed down. This is serenity."}
+      ]
+    },
+    "Scene 2": {
+      "Situation": "Olivia and Mike, yoga enthusiasts, are meditating in a quiet room filled with the scent of lavender incense.",
+      "Dialogue": [
+        {"name": "Olivia", "message": "Mike, can you feel the tranquility in this room? I can sense my worries melting away."},
+        {"name": "Mike", "message": "Yes, Olivia. I feel so calm and in touch with my inner self. It's like the stillness of this room has entered my mind."}
+      ]
+    }
+  },
+  "Sleepy": {
+    "Scene 1": {
+      "Situation": "Jessica and Brian are curled up on their couch, watching a movie late at night.",
+      "Dialogue": [
+        {"name": "Brian", "message": "Jessica, this movie is great, but I'm struggling to keep my eyes open. I'm really sleepy."},
+        {"name": "Jessica", "message": "I know what you mean, Brian. This couch is just too comfortable. Let's head to bed."}
+      ]
+    },
+    "Scene 2": {
+      "Situation": "Jessica and Brian are in their living room, late at night.",
+      "Dialogue": [
+        {"name": "Brian", "message": "Jessica, it's been a long day. I'm feeling quite sleepy."},
+        {"name": "Jessica", "message": "You're right, Brian. Let's call it a night and head to bed."}
+      ]
+    }
+  },
+  "Bored": {
+    "Scene 1": {
+      "Situation": "Anna and Alex, high school friends, are sitting in a boring lecture.",
+      "Dialogue": [
+        {"name": "Anna", "message": "Alex, this lecture is dragging on forever. I can't believe we still have 30 minutes left."},
+        {"name": "Alex", "message": "I know, Anna. I'd rather be anywhere else but here. Even watching paint dry seems more appealing right now."}
+      ]
+    },
+    "Scene 2": {
+      "Situation": "Anna and Alex, co-workers, are stuck in a seemingly never-ending corporate meeting.",
+      "Dialogue": [
+        {"name": "Anna", "message": "Alex, this meeting feels like an eternity. My mind is wandering to all the things I could be doing instead."},
+        {"name": "Alex", "message": "I know, Anna. I can almost feel each second passing by. The monotony of these reports is almost unbearable."}
+      ]
+    }
+  },
+  "Sad": {
+    "Scene 1": {
+      "Situation": "Laura and Tim, a couple, are at the airport saying goodbye as Tim leaves for a year-long assignment.",
+      "Dialogue": [
+        {"name": "Laura", "message": "Tim, I'm going to miss you so much. This airport, it just feels so cold and lonely."},
+        {"name": "Tim", "message": "I'll miss you too, Laura. But remember, it's not a goodbye, it's a see you later."}
+      ]
+    },
+    "Scene 2": {
+      "Situation": "Charlotte and Ethan, a couple, are sitting in a vet clinic after receiving bad news about their pet's health.",
+      "Dialogue": [
+        {"name": "Charlotte", "message": "Ethan, I can't believe Fluffy is this sick. The clinic, the cold metal table... it all feels so harsh."},
+        {"name": "Ethan", "message": "I know, Charlotte. Seeing him in pain, it's like a punch in the gut. But we will do everything we can for him."}
+      ]
+    }
+  },
+  "Depressed": {
+    "Scene 1": {
+      "Situation": "Emma and Jane, roommates, are in their apartment. Emma has been going through a tough time recently.",
+      "Dialogue": [
+        {"name": "Emma", "message": "Jane, I just can't shake off this heaviness in my heart. It's like a dark cloud hovering over me."},
+        {"name": "Jane", "message": "I'm here for you, Emma. We'll get through this together. You're not alone."}
+      ]
+    },
+    "Scene 2": {
+      "Situation": "Emma and Jane, sisters, are in their apartment. Emma has been feeling down for several weeks.",
+      "Dialogue": [
+        {"name": "Emma", "message": "Jane, I feel like I'm trapped in a tunnel with no light at the end. Everything feels heavy and joyless."},
+        {"name": "Jane", "message": "Emma, I'm here for you. We'll find a way out of this darkness together. You're not alone in this."}
+      ]
+    }
+  },
+  "Distressed": {
+    "Scene 1": {
+      "Situation": "Ben and Lily, colleagues, are in a meeting where their project is being heavily criticized.",
+      "Dialogue": [
+        {"name": "Ben", "message": "Lily, this is intense. I never thought our project would receive such harsh criticism."},
+        {"name": "Lily", "message": "I know, Ben. I feel like we're in a storm and our boat is sinking."}
+      ]
+    },
+    "Scene 2": {
+      "Situation": "Ben and Lily, business partners, are facing the possibility of their small business going bankrupt.",
+      "Dialogue": [
+        {"name": "Ben", "message": "Lily, the weight of these debts is overwhelming. It feels like we're on a sinking ship."},
+        {"name": "Lily", "message": "I know, Ben. It's like a nightmare that we can't wake up from."}
+      ]
+    }
+  },
+  "Angry": {
+    "Scene 1": {
+      "Situation": "Mike and Lisa, siblings, are arguing over who should do the dishes.",
+      "Dialogue": [
+        {"name": "Mike", "message": "Lisa, this is not fair! I did the dishes yesterday. It's your turn today."},
+        {"name": "Lisa", "message": "Well, Mike, I cooked dinner tonight. So, it's only fair that you do the dishes."}
+      ]
+    },
+    "Scene 2": {
+      "Situation": "Mike and Lisa, married couple, are having a heated argument about a recurring issue.",
+      "Dialogue": [
+        {"name": "Mike", "message": "Lisa, this is the third time this week! It's like you don't respect my time or effort at all!"},
+        {"name": "Lisa", "message": "You're not the only one trying here. You're acting like everything is my fault!"}
+      ]
+    }
+  },
+  "Afraid": {
+    "Scene 1": {
+      "Situation": "John and Mary, a young couple, are walking home late at night when they hear a strange noise.",
+      "Dialogue": [
+        {"name": "John", "message": "Mary, did you hear that? It sounded like something moved in the shadows. My heart is racing."},
+        {"name": "Mary", "message": "Yes, John. I heard it too. Let's hurry home. I've got a really bad feeling about this."}
+      ]
+    },
+    "Scene 2": {
+      "Situation": "Lucy and Tom, hikers, are lost in the woods as the night falls.",
+      "Dialogue": [
+        {"name": "Lucy", "message": "Tom, the woods are so dense and dark, it's like a black ocean all around us. Every sound seems amplified."},
+        {"name": "Tom", "message": "I feel the same, Lucy. The rustling leaves, the unknown... it's all so unsettling. We need to find our way back soon."}
+      ]
+    }
+  }
+}
